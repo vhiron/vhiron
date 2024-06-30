@@ -15,8 +15,6 @@ Welcome to **Vhiron Technologies**! We specialize in IT consultancy, app develop
 
 Vhiron Technologies is a leading IT consultancy and development company committed to providing top-notch services to our clients. Our team of experienced professionals is dedicated to delivering customized solutions that meet your specific needs.
 
-![Our Team](https://via.placeholder.com/800x400)
-
 ## Services
 
 ### IT Consultancy
@@ -76,5 +74,3 @@ We'd love to hear from you! Whether you have a question about our services or ne
 Thank you for choosing Vhiron Technologies. Let's innovate together!
 
 ---
-
-*Note: Replace placeholder information (email, phone, address) with actual contact details and replace placeholder image URLs with your actual images.*
